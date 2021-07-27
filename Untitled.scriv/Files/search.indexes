@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<SearchIndexes Version="1.0">
+    <Documents>
+        <Document ID="8E7FFCC7-E139-41FC-9D3F-B8A3B7247B15">
+            <Title>Miscellaneous</Title>
+        </Document>
+        <Document ID="8E30FCF9-6BCF-43DD-82AA-A04CD8F84B92">
+            <Title>Title Page</Title>
+            <Text>
+
+
+
+
+
+
+
+
+
+&lt;$projecttitle&gt;
+
+
+
+
+
+
+
+
+
+
+
+&lt;$fullname&gt;
+
+
+
+
+
+
+
+
+
+
+
+Course Title
+Instructor’s Name
+&lt;$longdate&gt;
+</Text>
+            <Notes>The &lt;$PROJECTTITLE&gt; and &lt;$fullname&gt; tags get replaced with metadata information you can set when compiling. Other information is taken from Contacts when the project is created.
+
+Feel free to edit the text of the title page as required.</Notes>
+        </Document>
+        <Document ID="2A65BD5C-6F7C-4879-BB20-C431ED028B2E">
+            <Title>Example Essay</Title>
+            <Text>The Origins of the Meta-Essay: The Essay About the Essay
+Arthur Caddemick
+English Literature 101 Professor Jakespear 30 October 2010
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean laoreet posuere est, in consequat est imperdiet nec. Morbi vel orci mattis erat mattis vulputate vel nec eros. Sed at mauris tortor, nec ornare erat. Praesent felis velit, dapibus at pretium non, congue sed ligula. Nam ac gravida nunc. Nam sapien lectus, pellentesque pharetra semper eu, rutrum nec neque. Praesent purus orci, ornare et luctus quis, iaculis eu dolor. Proin ornare sodales semper. Sed aliquet, orci at volutpat tristique, justo mi condimentum velit, ac feugiat ipsum nulla eget leo. Integer purus sem, placerat nec lacinia vel, mollis vitae magna. In hac habitasse platea dictumst. Vivamus sed elit augue, a consequat dolor. Proin at elementum tellus. Donec sodales, turpis sit amet porta ornare, nisi diam fringilla erat, eget varius lorem lectus eget tortor. Etiam eros nisl, gravida eu eleifend eu, semper non nulla. Pellentesque semper laoreet volutpat. Nam ac malesuada metus. Nunc ut eros est, nec accumsan est.
+This is a block quote. Block quotes should be separated from the main text by a blank line and should be indented by half an inch. Use the “Essay Block Quote (Preserved)” formatting preset in Scrivener to format block quotes so that they will be formatted correctly upon Compile. Vivamus porta auctor arcu eu scelerisque. Donec fringilla blandit ligula at laoreet. Cras lobortis est velit, in cursus erat. Donec convallis fermentum tortor, ut interdum ligula facilisis at. Nam posuere felis nec libero lobortis vitae porta est vulputate. Proin massa metus, condimentum vitae venenatis vel, sodales eu dolor. Suspendisse potenti. Cras nec nulla sit amet massa commodo aliquam. Quisque euismod dapibus ante quis lacinia. Praesent tempus dolor a libero sollicitudin quis consectetur ipsum bibendum. Donec pretium tincidunt odio, eu aliquet leo varius eu. Praesent euismod enim accumsan dui aliquet commodo. Nulla posuere, velit lacinia venenatis semper, sapien lacus aliquet lorem, in laoreet dolor lacus in arcu.1
+Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Donec varius, sapien sit amet malesuada ultrices, dui sem tincidunt urna, at varius sapien libero sed ipsum. Suspendisse dolor mauris, auctor a volutpat feugiat, facilisis ac magna. Nullam metus nisl, ultricies sed laoreet nec, posuere vitae magna. Sed vitae mauris non dui scelerisque lobortis
+Caddemick 2
+ut sed risus. Aliquam erat volutpat. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Ut semper lacinia velit in ultricies. Mauris id quam enim, quis dapibus nisi. Fusce ipsum urna, lacinia sit amet euismod nec, mollis dapibus ligula. Fusce dolor nunc, auctor sit amet pharetra vel, porta et elit. Nam eget velit neque. Donec varius eros vitae quam viverra pulvinar.2
+Duis est elit, dictum nec vestibulum non, ultrices ut massa. Suspendisse egestas vehicula justo, tempus mattis ipsum scelerisque sed. Vestibulum interdum porta risus, nec tristique sem feugiat eget. Vivamus a venenatis risus. Quisque ligula augue, euismod ac convallis vel, sagittis dapibus leo. Donec eleifend urna vitae eros mollis nec venenatis purus commodo. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin eu sapien vitae arcu euismod pharetra et id arcu.3 Sed lectus urna, mattis a gravida ut, sollicitudin id tortor. Maecenas et mi justo, eget dictum arcu. Praesent felis nunc, tempus egestas bibendum sit amet, dictum id eros. Integer purus velit, aliquam placerat vehicula at, sodales in erat. Vestibulum at neque vitae orci convallis consectetur a at sapien. Nulla id consequat elit. Suspendisse potenti. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Ut lorem ipsum, blandit nec eleifend cursus, pharetra ut elit. Proin semper porta diam, id rutrum orci facilisis ac. Morbi blandit erat augue, et vulputate metus.4
+Vestibulum non arcu felis, nec bibendum neque. Ut at odio velit. Aenean consectetur dapibus sollicitudin. Suspendisse potenti. Nam fermentum risus in odio sollicitudin interdum. Donec quam orci, commodo eget consectetur id, varius egestas magna. Morbi tincidunt fermentum orci ac imperdiet. Aliquam hendrerit lorem ac urna elementum fermentum. Aenean sollicitudin ipsum vitae arcu malesuada tempor. Phasellus feugiat dignissim erat non lobortis. Pellentesque at est at nisl fringilla posuere. Proin sagittis cursus nunc eget commodo. Nulla feugiat vehicula scelerisque. Nam quam neque, ornare sit amet tincidunt in, interdum sed nibh. Cras eget est sit amet diam adipiscing lacinia et at nisl. Nullam vulputate aliquam lorem at ultrices.
+Caddemick 3
+Notes
+1 Depending on your requirements, footnotes can either be placed at the end of each page or on a separate “Notes” page at the end of the essay, before the “Works Cited” page.
+2 In Scrivener, if you want your footnotes to be placed at the end of each page instead of on a separate “Notes” page, you should deselect “Include in Compile” for the “Notes” document and export to RTF format.
+3 The “Works Cited” page is usually optional.
+4 There are many variations of the Chicago essay format, so be sure to check your specific formatting requirements and amend this template as necessary.
+Caddemick 4
+Works Cited
+Choi, Mihwa. “Contesting Imaginaires in Death Rituals during the Northern Song Dynasty.” PhD diss., University of Chicago, 2008.
+Google. “Google Privacy Policy.” Last modified March 11, 2009. http://www.google.com/intl/ en/privacypolicy.html.
+Kossinets, Gueorgi, and Duncan J. Watts. “Origins of Homophily in an Evolving Social Network.” American Journal of Sociology 115 (2009): 405–50. Accessed February 28, 2010. doi:10.1086/599247.
+Kurland, Philip B., and Ralph Lerner, eds. The Founders’ Constitution. Chicago: University of Chicago Press, 1987. Accessed February 28, 2010. http://press-pubs.uchicago.edu/ founders/
+Lattimore, Richmond, trans. The Iliad of Homer. Chicago: University of Chicago Press, 1951. McDonald’s Corporation. “McDonald’s Happy Meal Toy Safety Facts.” Accessed July 19, 2008.
+http://www.mcdonalds.com/corp/about/factsheets.html.
+Pollan, Michael. The Omnivore’s Dilemma: A Natural History of Four Meals. New York: Penguin, 2006.
+Ward, Geoffrey C., and Ken Burns. The War: An Intimate History, 1941–1945. New York: Knopf, 2007.
+Weinstein, Joshua I. “The Market in Plato’s Republic.” Classical Philology 104 (2009): 439–58.
+Caddemick 5
+</Text>
+        </Document>
+        <Document ID="36F1479F-D769-45B2-BDAE-7AA1C1A0160C">
+            <Title>Ideas</Title>
+        </Document>
+        <Document ID="54DA639B-99B8-461A-B418-E1F374F3B4BD">
+            <Title>Notes</Title>
+            <Text>&lt;$--ENDNOTES--&gt;</Text>
+        </Document>
+        <Document ID="24821DCE-8C25-459B-B894-C1489F222C7B">
+            <Title>Essay Body</Title>
+        </Document>
+        <Document ID="274A2551-9645-46D2-8C3D-80D1CEC94D7A">
+            <Title>Works Cited</Title>
+            <Text>Works cited should go here (this page is optional). See the Works Cited Format document for information on formatting citations.</Text>
+        </Document>
+        <Document ID="E14D2E77-2F93-45A5-B464-E2EAF01E542B">
+            <Title>Works Cited Format</Title>
+            <Text>The Works Cited page is optional.
+
+Chicago Style citations should be formatted as follows:
+
+Book with one author
+Pollan, Michael. The Omnivore’s Dilemma: A Natural History of Four Meals. New York: Penguin, 2006.
+
+Book with two authors
+Ward, Geoffrey C., and Ken Burns. The War: An Intimate History, 1941–1945. New York: Knopf, 2007.
+
+Editor, translator, or compiler instead of author
+Lattimore, Richmond, trans. The Iliad of Homer. Chicago: University of Chicago Press, 1951.
+
+Book published electronically
+Kurland, Philip B., and Ralph Lerner, eds. The Founders’ Constitution. Chicago: University of Chicago Press, 1987. Accessed February 28, 2010. http://press-pubs.uchicago.edu/founders/
+
+Article in a print journal
+Weinstein, Joshua I. “The Market in Plato’s Republic.” Classical Philology 104 (2009): 439–58.
+
+Article in an online journal
+Kossinets, Gueorgi, and Duncan J. Watts. “Origins of Homophily in an Evolving Social Network.” American Journal of Sociology 115 (2009): 405–50. Accessed February 28, 2010. doi:10.1086/599247.
+
+Thesis or dissertation
+Choi, Mihwa. “Contesting Imaginaires in Death Rituals during the Northern Song Dynasty.” PhD diss., University of Chicago, 2008.
+
+Website
+Google. “Google Privacy Policy.” Last modified March 11, 2009. http://www.google.com/intl/en/privacypolicy.html.
+McDonald’s Corporation. “McDonald’s Happy Meal Toy Safety Facts.” Accessed July 19, 2008. http://www.mcdonalds.com/corp/about/factsheets.html.</Text>
+        </Document>
+        <Document ID="06B74939-7ACE-47C8-B5EA-838F086E52E6">
+            <Title>Main Content</Title>
+        </Document>
+        <Document ID="5D49D674-E116-4B7A-AB75-D381654DF253">
+            <Title>First Page Header</Title>
+            <Text>&lt;$template_fullName&gt;
+Instructor name
+Course title
+&lt;$longdate&gt;
+&lt;$template_projectName&gt;</Text>
+        </Document>
+        <Document ID="04E228F3-9C30-448D-A59A-8BD750DE835F">
+            <Title>About</Title>
+            <Text>CHICAGO STYLE ESSAY TEMPLATE
+
+About
+This template is designed to produce an essay in the Chicago Style format. However, you should check the exact guidelines of the institution to which you are submitting your essay, because formatting expectations can vary (such as whether there should be a separate title page, whether footnotes should appear at the end of each page or as endnotes, and so on). See “Adjusting This Template” (below) for information on how to tweak your project to meet different requirements.
+
+How To Use This Template
+	•	Edit the “Title Page” document so that it contains the title of your essay, your instructor’s name and so on.
+	•	Compose your essay in text documents inside the “Main Content” folder. Whether you use a single document or multiple text files to write your essay is entirely up to you—just make sure they are all inside the “Main Content” folder.
+	•	Indent block quotes or other special passages using styles. For instance, to add a block quote, choose “Block Quote” from the Format &gt; Style menu (or from the styles button in the format bar).
+	•	This template includes an “Endnotes” document which can be used to hold any footnotes you have created in the main body of the text. If you have not created any footnotes, or if you wish to have footnotes added at the end of the page rather than the end of the document, you should either delete this document or deselect its “Include in Compile” setting in the Inspector or Compile sheet.
+	•	Edit the “Works Cited” file so that it contains your own bibliography, being careful to adhere to the Chicago style for the citations. Some notes on the style required for citations are provided in the Works Cited Format document. If you do not require a “Works Cited” page, either delete this document or deselect its “Include in Compile” setting in the Inspector or Compile sheet.
+
+Tables and Figures
+If you need to use tables or figures in your essay, you can label them using the following tags, replacing “KEYWORD” with a unique word that identifies your table or figure.
+
+!fig(KEYWORD)
+!table(KEYWORD)
+
+These tags will be replaced with numbers in the compiled document, with the numbering stream for figures being separate from the numbering stream for tables.
+
+You can refer to such tags as follows:
+
+#fig(KEYWORD)
+#table(KEYWORD)
+
+Here’s an example:
+
+Table !table(sales): Sales 2011
+Table !table(dates): Shipment dates
+Figure !fig(skeleton): The skeleton of the gnu.
+Figure !fig(malcolmreynolds): The second coolest character in Firefly.
+
+… (For sales figures, see table #table(sales))… For shipment dates, see table #table(dates)… where he discovered the skeleton of a gnarled gnu (see figure #fig(skeleton))… Chronicles providing a similar role, albeit without the Castle actor (see figure #fig(malcolmreynolds)).
+
+In the compiled document, the above text would look like this:
+
+Table 1: Sales 2011
+Table 2: Shipment dates
+Figure 1: The skeleton of the gnu.
+Figure 2: The second coolest character in Firefly.
+
+… (For sales figures, see table 1)… For shipment dates, see table 2… where he discovered the skeleton of a gnarled gnu (see figure 1)… Chronicles providing a similar role, albeit without the Castle actor (see figure 2).
+
+Compiling
+	•	Go to File &gt; Compile…
+	•	Ensure the “Chicago Essay” format is selected in the list of formats on the left of the Compile panel.
+	•	Be sure to fill in information such as author and title in the metadata pane (click on the tag icon in the right-most header bar of Compile).
+	•	If you wish footnotes to be exported as endnotes, click on the gear icon in the right-most header bar of Compile and tick both “Export inspector footnotes as endnotes” and “Export inline footnotes as endnotes”. (Be sure to remove the “Notes” document if you do this.)
+	•	Click “Compile”.
+
+Adjusting This Template
+	•	If you don’t require a separate title page but instead need the title and course information as the header of the first page, remove the “Title Page” document from the “Essay” folder and replace it with the “First Page Header” document, which you can find inside the “Miscellaneous” folder.
+	•	This template uses Times New Roman as the font. If you require a different font, such as Arial or Courier, in the Compile panel, simply change the “Font” setting at the top of the “Section Layouts” pane.
+
+Sample Document
+The “Example Essay” PDF file in the Research folder shows how the essay will look when compiled.
+
+Final Note
+Scrivener project templates are flexible and are not intended to restrict you to a particular workflow. You can change, delete or move the files and folders contained in the template to suit how you work.
+
+Like all templates in Scrivener, this project was originally created from the “Blank” template. We’ve simply added a few folders and set everything up in ways that should be useful to students. Everything you can do with this project, you could equally do by creating a “Blank” project and setting it up yourself.
+
+You can create your own templates by setting up a skeletal project with the files, folders and settings you would like to use for new projects and using File &gt; Save As Template.</Text>
+        </Document>
+        <Document ID="7F7412E7-00A2-43BB-920A-617F564442B4">
+            <Title>Notes</Title>
+        </Document>
+    </Documents>
+</SearchIndexes>
